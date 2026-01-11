@@ -149,14 +149,3 @@ Then open `http://localhost:8501` in your browser.
 - **Streamlit** - Web application
 - **Plotly, Seaborn, Matplotlib** - Visualization
 
-## License
-
-MIT License
-
-## Author
-
-[Your Name]
-
----
-
-*This project was developed as part of a data science portfolio.*
