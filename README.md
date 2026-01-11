@@ -74,7 +74,7 @@ churn_prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/churn-prediction.git
+git clone https://github.com/bahaenes/churnprediction.git
 cd churn-prediction
 ```
 
