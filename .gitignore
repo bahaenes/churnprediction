@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - remove if you want to include sample data)
+# data/*.csv
+
+# Model files (optional - remove if you want to include trained models)
+# models/*.joblib
+
+# Logs
+*.log
+
+# Environment variables
+.env
